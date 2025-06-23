@@ -1,1 +1,0 @@
-# Python-C2-Server-for-Red-Teaming
