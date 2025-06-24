@@ -1,5 +1,7 @@
 # Python C2 Server for Red Teaming
 
+![c2.png](c2.png)
+
 #### Project Overview
 
 This repository contains a Python-based Command and Control (C2) framework designed for authorized red team operations and security research. The system enables secure, encrypted communication between a C2 server and one or more remote agents. The communication uses AES-CBC encryption, and the framework allows remote shell command execution and result retrieval in real time.
